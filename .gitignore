@@ -1,0 +1,37 @@
+# Αποφυγή προσωρινών και build αρχείων
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.cache
+*.tmp
+*.suo
+*.user
+*.tlog
+*.lastbuildstate
+*.ilk
+*.sdf
+*.db
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Αν χρησιμοποιείς NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Αν χρησιμοποιείς Node.js στο project
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Αν χρησιμοποιείς Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
