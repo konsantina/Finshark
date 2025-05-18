@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+s5UlVRNzzI=",
+  "dgSpecHash": "cKZr8RtBnKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\konst\\Desktop\\FINSHARK\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\konst\\Source\\Repos\\Finshark\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\konst\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\konst\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
