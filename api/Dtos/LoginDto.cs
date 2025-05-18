@@ -11,8 +11,9 @@ namespace api.Dtos
         [Required] 
         public string UserName { get;  set;}
         public string Password { get;  set;}
-        public string asd { get;  set;}
-        public string aaasd { get;  set;}
+        public string aaa { get;  set;}
+        public string 22 { get;  set;}
+
 
     }
 }
