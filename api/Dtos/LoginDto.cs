@@ -14,5 +14,6 @@ namespace api.Dtos
         public string aaa { get;  set;}
         public string 22 { get;  set;}
 
+
     }
 }
