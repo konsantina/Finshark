@@ -145,3 +145,14 @@ C:\Users\konst\Desktop\FINSHARK\api\obj\Debug\net8.0\refint\api.dll
 C:\Users\konst\Desktop\FINSHARK\api\obj\Debug\net8.0\api.pdb
 C:\Users\konst\Desktop\FINSHARK\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\konst\Desktop\FINSHARK\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.dll
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\refint\api.dll
+C:\Users\konst\Source\Repos\Finshark\api\obj\Debug\net8.0\api.pdb
